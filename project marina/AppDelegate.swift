@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  project marina
-//
-//  Created by alina ibraimova on 22.03.2024.
-//
-
 import UIKit
 
 @main
